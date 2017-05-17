@@ -1,0 +1,174 @@
+{
+  "project_info": {
+    "project_number": "397383454872",
+    "firebase_url": "https://acescommunity-3c24c.firebaseio.com",
+    "project_id": "acescommunity-3c24c",
+    "storage_bucket": "acescommunity-3c24c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397383454872:android:6815831e07b6dc31",
+        "android_client_info": {
+          "package_name": "com.example.manoj.acescommunity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397383454872-u42q3tedfju2lcucagtao9mh8t2ispr5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manoj.acescommunity",
+            "certificate_hash": "4b7224ff826a7688eb1a9dba223b140476c59532"
+          }
+        },
+        {
+          "client_id": "397383454872-eu7npojgqe3v7p4e90bp3auqg5kgoka6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Xn8OJWo9VO8FHiPFZ2qr4ImuEeQ6GFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397383454872-eu7npojgqe3v7p4e90bp3auqg5kgoka6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397383454872:android:7f404ab8e7e958e7",
+        "android_client_info": {
+          "package_name": "com.example.manoj.blog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397383454872-s21l5r64ad2rqctmd197nt761gq4not5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manoj.blog",
+            "certificate_hash": "4b7224ff826a7688eb1a9dba223b140476c59532"
+          }
+        },
+        {
+          "client_id": "397383454872-eu7npojgqe3v7p4e90bp3auqg5kgoka6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Xn8OJWo9VO8FHiPFZ2qr4ImuEeQ6GFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397383454872-eu7npojgqe3v7p4e90bp3auqg5kgoka6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397383454872:android:a1450e419ceacc9e",
+        "android_client_info": {
+          "package_name": "com.example.manoj.simpleblog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397383454872-0uqnadf771g2mfmih0eb009edvcm78tq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.manoj.simpleblog",
+            "certificate_hash": "4b7224ff826a7688eb1a9dba223b140476c59532"
+          }
+        },
+        {
+          "client_id": "397383454872-eu7npojgqe3v7p4e90bp3auqg5kgoka6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Xn8OJWo9VO8FHiPFZ2qr4ImuEeQ6GFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "397383454872-eu7npojgqe3v7p4e90bp3auqg5kgoka6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:397383454872:android:4f9e0804d92ed72e",
+        "android_client_info": {
+          "package_name": "manojromina.aces"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "397383454872-eu7npojgqe3v7p4e90bp3auqg5kgoka6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_Xn8OJWo9VO8FHiPFZ2qr4ImuEeQ6GFw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
